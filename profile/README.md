@@ -1,5 +1,5 @@
 <div align="center">
 
-![keep it simple. Design Develop build.](../media/LinkedIn cover - 1.png)
+![keep it simple. Design Develop build.](../media/Banner_new.png)
 
 </div>
