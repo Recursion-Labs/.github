@@ -1,5 +1,5 @@
 <div align="center">
 
-![keep it simple. Design Develop build.](images/Banner.png)
+![keep it simple. Design Develop build.](media/Banner.png)
 
 </div>
